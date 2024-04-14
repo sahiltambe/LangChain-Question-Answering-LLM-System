@@ -1,0 +1,8 @@
+cassio datasets
+langchain
+openai
+tiktoken
+astrapy
+cassio
+cassandra-driver
+PyPDF2
